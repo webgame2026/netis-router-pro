@@ -1,0 +1,31 @@
+
+{
+  "short_name": "NetisPro",
+  "name": "Netis Router Pro Management",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/netis.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/netis.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2563eb",
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "View router status",
+      "url": "/",
+      "icons": [{ "src": "https://img.icons8.com/color/96/netis.png", "sizes": "96x96" }]
+    }
+  ]
+}

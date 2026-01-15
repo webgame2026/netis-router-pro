@@ -1,0 +1,5 @@
+{
+  "name": "Netis Router Pro",
+  "description": "A high-performance management dashboard for Netis WF2409E routers, featuring real-time bandwidth monitoring, device management, and secure Wi-Fi configuration.",
+  "requestFramePermissions": []
+}
